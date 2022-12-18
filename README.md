@@ -5,7 +5,7 @@
 
 * Team (members): Xizhi Wu (email) xiw183@pitt.edu
 * Project presentation: click [here](Just Transition (1).pdf) to visit presentation slides
-* Project paper: click [here](Final_Report.docx.pdf) to visit final report
+* Project paper: click [here](Final Project Report Network Science.docx (1).pdf) to visit final report
 
 
 {Readme}
