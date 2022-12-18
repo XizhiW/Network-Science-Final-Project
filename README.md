@@ -1,5 +1,5 @@
 
-# Skill Barriers and Social Barriers to a “Just Transition” of U.S. Fossil Fuel Workers to Emerging Green Jobs
+# Skill Barriers and Social Barriers to a “Just Transition” of U.S. Fossil Fuel Workers to Emerging Green Jobs - 2022
 {Skill Barriers and Social Barriers to a “Just Transition” of U.S. Fossil Fuel Workers to Emerging Green Jobs}
 
 * Team (members): Xizhi Wu (email) xiw183@pitt.edu
