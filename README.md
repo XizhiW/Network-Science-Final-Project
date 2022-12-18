@@ -3,8 +3,8 @@
 {Skill Barriers and Social Barriers to a “Just Transition” of U.S. Fossil Fuel Workers to Emerging Green Jobs}
 
 * Team (members): Xizhi Wu (email) xiw183@pitt.edu
-* Project presentation: click [here](Just Transition.pdf) to visit presentation slides
-* Project paper: click [here](Final Project Report Network Science.docx.pdf) to visit final report
+* Project presentation: click [here](Just_Transition.pdf) to visit presentation slides
+* Project paper: click [here](Final_Project_Report_Network_Science.docx.pdf) to visit final report
 
 
 {Readme}
